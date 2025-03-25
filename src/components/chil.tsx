@@ -1,4 +1,4 @@
-type Props = {
+/*type Props = {
     text?: React.ReactNode,
     autor?: React.ReactNode;
 }
@@ -21,3 +21,4 @@ export const Card = ({text,autor}: Props) => {
   </div>
  );
 }
+ */
